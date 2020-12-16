@@ -26,8 +26,9 @@ public class UltraEmojiCombat {
         
         l[3].status();
         System.out.println("\n");
-        l[3].perderLuta();
+        l[3].ganharLuta();
         l[3].status();
+        
     }
     
 }
